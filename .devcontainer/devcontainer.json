@@ -1,4 +1,4 @@
-{
+"ghcr.io/devcontainers-contrib/features/azure-apiops:1": } {
     "name": "Azure Developer CLI",
     "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
     "forwardPorts": [50505],
